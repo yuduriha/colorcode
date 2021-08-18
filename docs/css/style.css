@@ -1,0 +1,9 @@
+#color-box-parent {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.color-box {
+	width: 1px;
+	height: 1px;
+}
